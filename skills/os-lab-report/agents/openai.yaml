@@ -1,0 +1,4 @@
+interface:
+  display_name: "操作系统实验与报告"
+  short_description: "按已确认的基础C写法完成实验代码，使用授权服务器并结合模板与截图填写报告"
+  default_prompt: "使用 $os-lab-report 完成本次操作系统实验，沿用项目代码规范，按需同步服务器，并根据参考题目、模板和我的截图填写报告。"
